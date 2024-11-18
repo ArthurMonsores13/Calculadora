@@ -8,7 +8,7 @@
 /* Fonte e cores gerais */
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: burlywood;
+    background-color: #1C1C1C;
     color: #333;
     line-height: 1.6;
     display: flex;
@@ -21,7 +21,7 @@ body {
 
 /* Header com borda neon */
 header.neon-border {
-    background-color: #232323;
+    background-color: black;
     padding: 20px;
     text-align: center;
     border: 5px solid #ff4500;
@@ -45,7 +45,7 @@ header p {
 
 /* Estilo da calculadora */
 .calculator {
-    background-color: #f4f4f9;
+    background-color: black;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
